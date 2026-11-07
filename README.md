@@ -1,15 +1,15 @@
 This course introduces the fundamental principles of digital image processing and their practical applications. Topics covered include:
 
-Introduction to Digital Image Processing
+1. Introduction to Digital Image Processing
 
-Image Filtering
+2. Image Filtering
 
-Image Restoration and Reconstruction
+3. Image Restoration and Reconstruction
 
-Color Image Processing
+4. Color Image Processing
 
-Image Segmentation
+5. Image Segmentation
 
-Image Representation and Description
+6. Image Representation and Description
 
-Wavelets, Multiresolution Processing, and Morphological Image Processing
+7. Wavelets, Multiresolution Processing, and Morphological Image Processing
