@@ -1,2 +1,15 @@
-# Image-Processing-Course
-學習數位影像處理的基本原理與應用，涵蓋影像濾波、影像修復、色彩處理、影像分割、特徵描述及多解析度處理等主題。
+This course introduces the fundamental principles of digital image processing and their practical applications. Topics covered include:
+
+Introduction to Digital Image Processing
+
+Image Filtering
+
+Image Restoration and Reconstruction
+
+Color Image Processing
+
+Image Segmentation
+
+Image Representation and Description
+
+Wavelets, Multiresolution Processing, and Morphological Image Processing
